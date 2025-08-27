@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-You should totally watch [AI Avenue](https://aivenue.show)
+You should totally watch [AI Avenue](https://aiavenue.show)
 
 <!--
 **craigsdennis/craigsdennis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
